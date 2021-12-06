@@ -734,7 +734,7 @@ function Main() {
                 href="mailto:kindly@unicef.org"
                 rel="noreferrer"
               >
-                Email us
+                Email us.
               </Button>
             </div>
           </div>
